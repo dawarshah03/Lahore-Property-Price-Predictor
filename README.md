@@ -1,1 +1,0 @@
-# Lahore-Property-Price-Predictor
